@@ -1,21 +1,27 @@
 
 .about{
- color:ddc9b4;
-
+    color: F0E2E7;
 }
-
 .skills{
-color:ddc9b4;
-
+    color: F0E2E7;
 }
-
 .projects{
-color:ddc9b4;
-
+    color: F0E2E7;
 }
-
 .contact{
-color:ddc9b4;
+    color: F0E2E7;
 
 }
+
+body {
+    background: #12664F;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 40px;
+}
+
+h1{
+    text-align: center;
+    color: #DDC9B4;
+}
+
 
