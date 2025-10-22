@@ -26,8 +26,7 @@ h1{
 
 .projects img{
     width: 300px;
-    height: 300px;
-    margin: 10px;
+    margin: 20px;
     border: 2px solid #6a7152;
     display: block;
     margin: auto;
@@ -35,11 +34,11 @@ h1{
 
 a {
     text-decoration: none;
-    color: #6a7152
+    color: #DDC9B4
 }
 
 .projects p{
     text-align: center;
-    margin: 15px;
+    margin: 30px;
 }
 
