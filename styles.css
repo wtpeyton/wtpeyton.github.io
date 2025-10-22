@@ -24,7 +24,7 @@ h1{
     color: #DDC9B4;
 }
 
-.project img{
+.projects img{
     width: 300px;
     height: 300px;
     margin: 10px;
@@ -38,7 +38,7 @@ a {
     color: #6a7152
 }
 
-.project p{
+.projects p{
     text-align: center;
     margin: 15px;
 }
