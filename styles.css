@@ -24,4 +24,22 @@ h1{
     color: #DDC9B4;
 }
 
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid #6a7152;
+    display: block;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #6a7152
+}
+
+.project p{
+    text-align: center;
+    margin: 15px;
+}
 
